@@ -666,24 +666,34 @@ http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2
 http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd
 
 
+OTRAS SEÑALES
+
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Trece
+https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Nueve
+https://broker.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",C5N
+https://broker.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", TNT SERIES
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"af697afe95d1a333a845aee5ba676946":"c57bdecf3169b78e51865403c6e723bd"}
+https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/manifest.mpd
+
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN
+https://broker.cdn.rcs.net.ar/mnp/yft2eRNwcYbjJwa0YvCvw8a6HoSQwc4g_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 2
+https://broker.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 3
+https://broker.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 4
+https://broker.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY_hls/playlist.m3u8
 
 
-
-EXTINF:-1 group-title="EVENTOS FUTBOL ARGENTINA 1" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-
-#EXTINF:-1 group-title="EVENTOS FUTBOL ARGENTINA 2" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
-https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
-
-
-#EXTINF:-1 group-title="EVENTOS FUTBOL ARGENTINA 3" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-
-
-#EXTINF:-1 group-title="EVENTOS FUTBOL ARGENTINA 4" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play8 🇦🇷
-https://anonmedia.eu/amc/index.m3u8|Referer=https://jalynrabei.com/
-
-
-#EXTINF:-1 group-title="EVENTOS FUTBOL ARGENTINA 5" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
 
